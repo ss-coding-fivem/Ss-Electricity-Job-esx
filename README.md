@@ -1,6 +1,3 @@
-# Ss-Electricity-Job-esx
+# Sky-Electricista
 
-#developed by
-starlord ak 
-skybender 
-team desham
+# desham 
